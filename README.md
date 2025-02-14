@@ -54,10 +54,10 @@ The map should be a .cub file with the following format:
 
 Example:
    ```bash
-   NO ./textures/wall_north.xpm
-   SO ./textures/wall_south.xpm
-   WE ./textures/wall_west.xpm
-   EA ./textures/wall_east.xpm
+   NO ./textures/north.jpg
+   SO ./textures/south.jpg
+   WE ./textures/west.jpg
+   EA ./textures/east.jpg
 
    F 220,100,50
    C 255,255,255
