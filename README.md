@@ -8,21 +8,21 @@ Cub3D is a 3D graphical project inspired by Wolfenstein 3D, developed as part of
 
 ### Features
 
-**Raycasting-based 3D rendering**
+- Raycasting-based 3D rendering
 
-**Custom parser for map validation**
+- Custom parser for map validation
 
-**Player movement and rotation**
+- Player movement and rotation
 
-**Wall textures and basic shading**
+- Wall textures and basic shading
 
-**MLX42 for graphical rendering**
+- MLX42 for graphical rendering
 
 ### Collaborators
 
-**Vova Shkonda** - worked and the raycaster, graphical rendering and controls
+- **Vova Shkonda** - worked and the raycaster, graphical rendering and controls
 
-**Paulius Minialga (me)** - responsible for parsing and validation
+- **Paulius Minialga (me)** - responsible for parsing and validation
 
 ### Installation
    ```bash
