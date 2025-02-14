@@ -1,0 +1,9 @@
+[submodule "MLX42"]
+	path = MLX42
+	url = https://github.com/codam-coding-college/MLX42.git
+[submodule "gnl"]
+	path = gnl
+	url = https://github.com/vovashko/get_next_line.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/vovashko/libft.git
