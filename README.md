@@ -20,7 +20,7 @@ Cub3D is a 3D graphical project inspired by Wolfenstein 3D, developed as part of
 
 ### Collaborators
 
-- [**Vova Shkonda**](https://github.com/vovashko) - worked and the raycaster, graphical rendering and controls
+- [**Vova Shkonda**](https://github.com/vovashko) - worked on the raycaster, graphical rendering and controls
 
 - **Paulius Minialga (me)** - responsible for parsing and validation
 
